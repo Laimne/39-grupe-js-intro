@@ -7,6 +7,9 @@
     "dev": "nodemon",
     "numbers": "nodemon ./js/numbers.js",
     "strings": "nodemon ./js/strings.js",
+    "boolean": "nodemon ./js/boolean.js",
+    "array": "nodemon ./js/array.js",
+
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
