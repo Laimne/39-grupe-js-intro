@@ -9,6 +9,7 @@
     "strings": "nodemon ./js/strings.js",
     "boolean": "nodemon ./js/boolean.js",
     "array": "nodemon ./js/array.js",
+    "for": "nodemon ./js/for.js",
 
     "test": "echo \"Error: no test specified\" && exit 1"
   },
