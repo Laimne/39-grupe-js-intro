@@ -1,6 +1,5 @@
 
 
-
 const name = "Petras";
 console.log(name);
 
@@ -12,3 +11,6 @@ console.log(sentense);
 
 const p = "Labas rytas,Labas rytas,Labas rytas";
 console.log(p);
+
+
+

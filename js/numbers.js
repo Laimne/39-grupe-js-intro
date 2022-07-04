@@ -47,11 +47,17 @@ silense/=2;
 silense*=2;
 console.log(silense);
 
+let m=100;
+console.log(m++);
+console.log(m++);
+console.log(m++);
+console.log(m++);
+console.log(m++);
+console.log(m++);
+console.log(m++);
+console.log(m++);
 
 
-
-
- 
 
 
 
