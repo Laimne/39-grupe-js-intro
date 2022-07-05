@@ -17,6 +17,7 @@
      "tusciaFunkcija":"nodemon ./nd/tusciaFunkcija.js",
      "numSize":"nodemon ./js/numSize.js",
      "bigNum":"nodemon ./nd/bigNum.js",
+     "letters":"nodemon ./js/letters.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
