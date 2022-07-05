@@ -1,19 +1,47 @@
+const marks = [10, 2, 8, 4, 6];
 
+let suma = 0;
 
-const marks =[10,2,8,4,6];
+for (let i = 0; i < 5; i++) {
+    const mark = marks[i];
+    suma += mark;
+}
 
-let suma=0;
-let index=0;
+console.log('suma:', suma);
+console.log('kiekis:', marks.length);
+console.log('vidurkis:', suma / marks.length);
 
-for(let i=0; i<marks.length;i++){
-suma +=marks[index++];
+const people = ['Petras', 'Maryte', 'Jonas', 'Ona'];
+
+for (let i = 0; i < people.length; i++) {
+    const name = people[i];
+    const labas = 'Labas, as ' + name + '!';
+    console.log(labas);
+}
+
+console.log('------------------');
+
+const paraidziui = 'Paraidziui';
+console.log(paraidziui);
+
+for (let i = 0; i < paraidziui.length; i++) {
+    const simbolis = paraidziui[i];
+    console.log(simbolis);
 }
 
 
-const vidurkis=suma/marks.length;
+const labas = 'Labas rytas Lietuva!';
+let labasNaujas = '';
+console.log(labas);
 
-console.log("suma:",suma);
-console.log("vidurkis:",vidurkis);
+for (let i = 0; i < labas.length; i++) {
+    const simbolis = labas[i];
+    labasNaujas += simbolis;
+    console.log(simbolis, labasNaujas);
+}
+
+
+
 
 
 
