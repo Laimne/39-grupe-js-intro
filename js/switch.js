@@ -173,3 +173,61 @@ switch (etapas) {
         console.log('Toks etapas nenumatytas');
         break;
 }
+
+
+console.log('--------------------');
+
+console.log('Patiekalų pavadinimai');
+
+switch (etapas) {
+    case 1:
+        console.log('Varškės apkepas');
+
+    case 2:
+        console.log('Bulviniai blynai');
+
+    case 3:
+        console.log('Kūgelis');
+
+    case 4:
+        console.log('Cepelinai');
+
+    case 5:
+        console.log('Vėdarai');
+
+    case 6:
+        console.log('Kepta mėsa');
+
+    case 7:
+        console.log('Lašiniai');
+
+    case 8:
+        console.log('Kaina nurodyta ant pakuotės');
+
+    case 9:
+        console.log('Skanaus');
+        break;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+console.log('--------------------');
+
+

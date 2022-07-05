@@ -15,6 +15,7 @@
     "function":"nodemon ./js/function.js",
      "daugyba":"nodemon ./nd/daugyba.js",
      "tusciaFunkcija":"nodemon ./nd/tusciaFunkcija.js",
+     "numSize":"nodemon ./js/numSize.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

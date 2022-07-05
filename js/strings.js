@@ -92,10 +92,23 @@ console.log(labas2_b);
 
 console.log('Labas, as ${firstname1} ${lastname1}.');
 
-const a = 7;
-const b = 5;
+
+
+ const a = 7;
+ const b = 5;
 
 console.log(`${a} + ${b} = ${a + b}`);
+
+let c = 30;
+const e = 10;
+const d =25;
+
+console.log(`${c} + ${e}+${d}= ${c + e +d}`);
+
+console.clear();
+
+
+
 
 
 
