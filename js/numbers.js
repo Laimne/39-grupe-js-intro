@@ -19,6 +19,12 @@ Kintamuju iniciavimas:
 const metai = 202200000;
 console.log(metai);
 
+const diena = 31;
+console.log(diena);
+
+const numeris = 11;
+console.log(numeris);
+
 let PI = 3.1415;
 console.log(PI);
 
@@ -169,6 +175,10 @@ silense %= 3;
 console.log('%= 3 ->', silense);
 silense **= 3;
 console.log('**= 3 ->', silense);
+silense -= 12;
+console.log('-= 12 ->', silense);
+
+
 
 let i = 1;
 i = i + 1;
