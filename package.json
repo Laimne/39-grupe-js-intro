@@ -13,7 +13,8 @@
     "if": "nodemon ./js/if.js",
     "switch":"nodemon ./js/switch.js",
     "function":"nodemon ./js/function.js",
-     "daugyba":"nodemon ./js/daugyba.js",
+     "daugyba":"nodemon ./nd/daugyba.js",
+     "tusciaFunkcija":"nodemon ./nd/tusciaFunkcija.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
