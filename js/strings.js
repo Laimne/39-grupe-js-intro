@@ -105,7 +105,7 @@ const d =25;
 
 console.log(`${c} + ${e}+${d}= ${c + e +d}`);
 
-console.clear();
+
 
 
 
