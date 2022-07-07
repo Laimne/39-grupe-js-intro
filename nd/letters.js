@@ -45,4 +45,13 @@ console.log(letters('abcdefghijkl', 4), '->', 'dhl');
 
 // console.log(letters('abcdefghijkl', -1), '->', 'lkjihgfedcba');
 // console.log(letters('abcdefghijkl', -2), '->', 'kigeca');
-// console.log(letters('abcdefghijkl', -3), '->', 'jgda');
+
+
+
+
+
+
+text = 'abanklkkm'
+step = -1
+
+
