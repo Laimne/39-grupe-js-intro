@@ -20,7 +20,7 @@ console.clear();
 // console.log(firstChildName);
 
 
-const person = {
+  let person = {
     name: 'Petras',
     age: 99,
     isMarried: true,
@@ -76,3 +76,5 @@ for (let i = 0; i < students.length; i++) {
     const labas = `Sveiki, as ${student.name} ir man ${student.age} metu.`;
     console.log(labas);
 }
+
+

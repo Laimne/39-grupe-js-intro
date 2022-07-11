@@ -73,6 +73,8 @@ console.log(pomidoras4);
 
 console.log('------------');
 
+console.clear();
+
 
 
 
