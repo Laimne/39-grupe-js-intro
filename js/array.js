@@ -8,10 +8,11 @@ rekomendacija:
 - masyve tureti vieno tipo duomenis
 */
 
-const marks = [10, 2, 8, 4];
+
+let marks = [10, 2, 8, 4];
 console.log(marks);
 
-const suma = marks[0] + marks[1] + marks[2] + marks[3];
+let suma = marks[0] + marks[1] + marks[2] + marks[3];
 console.log('Suma:', suma);
 
 const kiekis = marks.length;
@@ -55,3 +56,24 @@ console.log(asmuo4);
 
 
 const randomString = [' ', '', 'a', 'labas', 'Mantas', 'Sesupe', 'void', 'namas'];
+
+
+console.log('------------');
+
+const pomodoro = ['raudoni','geltoni','balti','oranziniai'];
+const pomidoras1 = pomodoro[0];
+const pomidoras2 = pomodoro[1];
+const pomidoras3 = pomodoro[2];
+const pomidoras4 = pomodoro[3];
+console.log(pomidoras1);
+console.log(pomidoras2);
+console.log(pomidoras3);
+console.log(pomidoras4);
+
+
+console.log('------------');
+
+
+
+
+
