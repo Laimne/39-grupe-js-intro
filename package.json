@@ -16,6 +16,7 @@
     "loops":"nodemon ./js/loops.js",
     "arrow":"nodemon ./js/arrow.js",
     "object":"nodemon ./js/object.js",
+    "spread": "nodemon ./js/spread.js",
      "daugyba":"nodemon ./nd/daugyba.js",
      "tusciaFunkcija":"nodemon ./nd/tusciaFunkcija.js",
      "numSize":"nodemon ./nd/numSize.js",
