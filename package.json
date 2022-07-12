@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "nodemon",
     "numbers": "nodemon ./js/numbers.js",
-    "class": "nodemon ./js/class.js",
+    "Class": "nodemon ./js/Class.js",
     "strings": "nodemon ./js/strings.js",
     "boolean": "nodemon ./js/boolean.js",
     "array": "nodemon ./js/array.js",
